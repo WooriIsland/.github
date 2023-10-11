@@ -1,6 +1,6 @@
 # 🏝️ WooriIsland
 ## Back-end Repository
-[우리가족섬 back end repository](https://github.com/WooriIsland/back-end.git)
+[우리가족섬 Back end repository](https://github.com/WooriIsland/back-end.git)
 
 ## Unity Repository
 [우리가족섬 Unity repository](https://github.com/WooriIsland/unity.git)
