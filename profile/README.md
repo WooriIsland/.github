@@ -142,9 +142,9 @@
 # 📅프로젝트 진행 기록
 
 ### ✔️ 수행 기간
-- 2023.10.04 ~ 2023.12.12
+- 2023.10.04 ~ 2023.12.12 <br>
 
-
+<br>
   
 ## 🏆 수상 내역
 <img src="https://github.com/WooriIsland/back-end/assets/136250818/1d4dc9b5-8b66-4773-aaca-c86ecf992fd5" width="50%" height="50%"> <br>
